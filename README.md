@@ -86,6 +86,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [KensoDev](#kensodev) - **streaming** Advanced Devops - Python, Terraform, React
 - [SirLynixVanFrietjes](#sir-lynix-van-frietjes) - **streaming** C++, Lua, Game Development (in french)
 - [Jochen Lillich](#jochen-lillich) - **streaming** Ruby, Chef, DevOps, Docker, Kontena
+- [Christofer Padilla](#christofer-padilla) - **streaming** JavaScript, Node.js, Vue.js, Docker, Vim, League of Legends
 
 ## Developers That Stream
 
@@ -721,3 +722,16 @@ AWS, Web Development, Python, Serverless, AI
 - [Twitter](https://www.twitter.com/geewiz)
 - [Github](https://github.com/geewiz)
 - [Website](http://jochen.lillich.co)
+
+### Christofer Padilla
+#### What Christofer Padilla streams
+- Independent web developer who streams Javascript, Node.js, Vue.js, Vim
+- League of Legends
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/rockzombie2)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://www.twitter.com/rockzombie2)
+- [Github](https://github.com/cpadilla)
+- [Website](http://christofer.rocks)
